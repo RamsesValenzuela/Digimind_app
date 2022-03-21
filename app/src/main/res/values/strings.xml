@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="title_home">Tablero</string>
+    <string name="title_dashboard">Nueva Tarea</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="question1">Nombre de la tarea</string>
+    <string name="question2">¿Para qué día es?</string>
+    <string name="question3">¿A qué hora?</string>
+    <string name="day1">Lunes</string>
+    <string name="day2">Martes</string>
+    <string name="day3">Miércoles</string>
+    <string name="day4">Jueves</string>
+    <string name="day5">Viernes</string>
+    <string name="day6">Sábado</string>
+    <string name="day7">Domingo</string>
+    <string name="time">HORA</string>
+    <string name="add">AGREGAR</string>
+    <string name="hint_title">Práctica Digimind</string>
+    <string name="new_task">Nueva tarea agregada</string>
+    <string name="ok_button">Eliminar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="title">AVISO</string>
+    <string name="msg">¿Deseas eliminar esta tarea?</string>
+    <string name="msg_deleted">Se ha eliminado la tarea</string>
+</resources>
